@@ -1,0 +1,1 @@
+document.querySelectorAll('p').innerhtml="Mohd Ali Khan";
